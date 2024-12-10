@@ -157,7 +157,7 @@ impl Screen {
                         // prior line.
                         adjusted_cursor.0 = physical_cols;
                     }
-                    adjusted_cursor.1 -= 1;
+                    //adjusted_cursor.1 -= 1;
                 }
             }
 
